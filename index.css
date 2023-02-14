@@ -1,0 +1,31 @@
+.card{
+    height: 300px;
+    width: 320px;
+    border: 1px solid black;
+}
+figure{
+    margin: 20px;
+}
+img{
+    height: 158px;
+    width: 280px;
+    border-radius: 2%;
+}
+b{
+    font-size: 20px;
+   
+}
+.rupees{
+    margin-left: 40px;
+    color: #968582;
+}
+
+span{
+    background-color: aqua;
+    display: inline;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    
+}
